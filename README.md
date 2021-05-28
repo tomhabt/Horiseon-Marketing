@@ -15,7 +15,7 @@ Year:2021
 * CSS
 
 ## Website
-https://thomhabt.github.io/Horiseon-Marketing/
+https://thomhabt.github.io/Horiseon-Marketing/.
 
 ## Contribution
 Made with ❤️ by [Thomas Habtemariam]
