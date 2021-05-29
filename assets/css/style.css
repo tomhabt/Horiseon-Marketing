@@ -55,8 +55,8 @@ header nav ul li {
     background-position: center;
 }
 
-/* Marketing section Style  */
-.SEO, .SMM {
+/* Marketing section  row and column Style  starts here*/
+.info {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -68,27 +68,15 @@ header nav ul li {
     color: #ffffff;
 }
 
-.ORM {
-        width: 75%;
-        display: inline-block;
-        margin-left: 20px;
-        margin-bottom: 20px;
-        padding: 50px;
-        height: 300px;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        background-color: #0072bb;
-        color: #ffffff; 
-}
-
-.SEO h2, .ORM h2, .SMM h2 {
+.info h2 {
     font-size: 36px;
 }
 
-.SEO p, .SMM p  {
+.right-sided   {
     padding: 15px;
 }
 
-.ORM p {
+.left-sided  {
     padding: 15px 15px 15px 0px; 
 }
 
@@ -133,6 +121,8 @@ header nav ul li {
     color: #ffffff;
 }
 
+/* Footer Style Starts here  */
+
 footer {
     padding: 30px;
     clear: both;
@@ -142,10 +132,4 @@ footer {
 
 footer h2 {
     font-size: 20px;
-}
-
-
-
-
-
-
+}/* Footer Style ends here  */
